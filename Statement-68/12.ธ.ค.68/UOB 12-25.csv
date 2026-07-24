@@ -1,0 +1,12 @@
+﻿
+" H1 "," Account Number "," Type "," Account Currency "," Account Name "," Date From "," Date To ","  ","  ","  ","  ","  ","  ","  ","  ","  ","  ",
+" H2 "," 6041259598 "," Saving Account "," THB "," บจก. ไอ แฮฟ ซีพียู  "," 01/12/2025 "," 31/12/2025 ",
+" D1 "," Account Number "," Value Date "," Date "," Time "," Description "," Your Reference "," Our Reference "," Cheque Number "," Reference5 "," Remarks "," Reference7 "," Reference8 "," Reference9 "," Reference10 "," Reference11 "," Reference12 "," Deposit "," Withdrawal "," Ledger Balance ",
+" D2 "," 6041259598 "," 30/12/2025 "," 30/12/2025 "," 11:46:14 PM "," INTEREST CREDIT ","  ","  ","  ","  ","  ","  ","  ","  ","  ","  ","  "," 0.20 "," 0.00 "," 1,000.20 ",
+" T ","","","","","","","","","","","","","","","",""," 0.20 "," 0.00 ","","","","","","","",
+
+" H1 "," Header Desc ",
+" H2 "," Header2 ",
+" D1 "," Detail Desc ",
+" D2 "," Detail ",
+" T "," Trailer ",

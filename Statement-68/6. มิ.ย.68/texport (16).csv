@@ -1,0 +1,31 @@
+﻿Export Date and Time
+"19/07/2025 12:21:36"
+Transaction Date and Time,Value Date,Description,Cheque Number,Debit Amount,Credit Amount,Ledger Balance,Channel of transaction,Branch,Location,TerminalID,Narrative,Counter Party Account Name,Counter Party Account Number,FX Rate
+"30/06/2025 04:22:42","30/06/2025","Vendor Payment","","-2,000,000.00 THB",0.00,"218,072.16 THB","Cash Management","","","0098PP","Ref:  โอนกระแส28 9860903; Purpose: GOODS AND SERVICES; Payment Amount: 2,000,000.00 THB","Ihavecpu","1682XXX450",1
+"30/06/2025 03:01:43","30/06/2025","BBL.CARD","",0.00,"16,943.42 THB","2,218,072.16 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"30/06/2025 03:01:43","30/06/2025","BBL.CARD","",0.00,"3,634.40 THB","2,201,128.74 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"30/06/2025 03:01:43","30/06/2025","BBL.CARD","",0.00,"2,419.85 THB","2,197,494.34 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"29/06/2025 04:01:21","29/06/2025","BBL.CARD","",0.00,"29,515.27 THB","2,195,074.49 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"29/06/2025 03:00:44","29/06/2025","BBL.CARD","",0.00,"68,689.56 THB","2,165,559.22 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"29/06/2025 03:00:44","29/06/2025","BBL.CARD","",0.00,"68,762.29 THB","2,096,869.66 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"26/06/2025 03:00:54","26/06/2025","BBL.CARD","",0.00,"31,363.36 THB","2,028,107.37 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"25/06/2025 23:00:00","25/06/2025","TAXES","","-20.97 THB",0.00,"1,996,744.01 THB","Automatic","NAKHON NAYOK","Mueang Nakhon Nayok ","000000","","","",1
+"25/06/2025 23:00:00","25/06/2025","Interest Credit","",0.00,"2,097.45 THB","1,996,764.98 THB","Automatic","NAKHON NAYOK","Mueang Nakhon Nayok ","000000","","","",1
+"25/06/2025 03:01:10","25/06/2025","BBL.CARD","",0.00,"5,867.79 THB","1,994,667.53 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"24/06/2025 03:00:30","24/06/2025","BBL.CARD","",0.00,"228,819.05 THB","1,988,799.74 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"23/06/2025 03:02:40","23/06/2025","BBL.CARD","",0.00,"82,680.47 THB","1,759,980.69 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"18/06/2025 03:00:35","18/06/2025","BBL.CARD","",0.00,"15,189.65 THB","1,677,300.22 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"15/06/2025 04:01:24","15/06/2025","BBL.CARD","",0.00,"38,666.50 THB","1,662,110.57 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"15/06/2025 03:01:52","15/06/2025","BBL.CARD","",0.00,"101,114.93 THB","1,623,444.07 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"09/06/2025 03:01:37","09/06/2025","BBL.CARD","",0.00,"60,055.46 THB","1,522,329.14 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"08/06/2025 03:00:21","08/06/2025","BBL.CARD","",0.00,"1,666.09 THB","1,462,273.68 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"08/06/2025 03:00:21","08/06/2025","BBL.CARD","",0.00,"65,902.10 THB","1,460,607.59 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"07/06/2025 03:11:00","07/06/2025","BBL.CARD","",0.00,"36,751.35 THB","1,394,705.49 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"05/06/2025 03:03:03","05/06/2025","BBL.CARD","",0.00,"57,308.44 THB","1,357,954.14 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"04/06/2025 03:02:31","04/06/2025","BBL.CARD","",0.00,"53,538.88 THB","1,300,645.70 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"04/06/2025 03:02:31","04/06/2025","BBL.CARD","",0.00,"5,975.91 THB","1,247,106.82 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"03/06/2025 03:00:53","03/06/2025","BBL.CARD","",0.00,"2,929.38 THB","1,241,130.91 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"02/06/2025 03:02:12","02/06/2025","BBL.CARD","",0.00,"46,246.09 THB","1,238,201.53 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"01/06/2025 03:03:16","01/06/2025","BBL.CARD","",0.00,"27,660.94 THB","1,191,955.44 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+"01/06/2025 03:03:16","01/06/2025","BBL.CARD","",0.00,"4,950.77 THB","1,164,294.50 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T3","","","",1
+  

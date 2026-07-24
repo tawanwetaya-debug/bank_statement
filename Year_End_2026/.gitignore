@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Excel temporary
+~$*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Excel files
+*.xlsx
+*.xls
+*.xlsb
+~$*.xlsx
+~$*.xls
+~$*.xlsb
+*.pptx
+*.csv
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files
+.env
+.venv/
+venv/

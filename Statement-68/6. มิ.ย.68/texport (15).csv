@@ -1,0 +1,44 @@
+﻿Export Date and Time
+"19/07/2025 12:20:45"
+Transaction Date and Time,Value Date,Description,Cheque Number,Debit Amount,Credit Amount,Ledger Balance,Channel of transaction,Branch,Location,TerminalID,Narrative,Counter Party Account Name,Counter Party Account Number,FX Rate
+"30/06/2025 16:34:05","30/06/2025","RECEIVED ON GOODS","",0.00,"785,248.00 THB","3,100,571.90 THB","Cash Management","","","0098A3","","","",1
+"30/06/2025 16:34:05","30/06/2025","RECEIVED ON GOODS","",0.00,"777,698.00 THB","2,315,323.90 THB","Cash Management","","","0098A3","","","",1
+"30/06/2025 04:22:42","30/06/2025","Vendor Payment","","-4,000,000.00 THB",0.00,"1,537,625.90 THB","Cash Management","","","0098PP","Ref:  โอนกระแสรายวัน28 ; Purpose: GOODS AND SERVICES; Payment Amount: 4,000,000.00 THB","Ihavecpu","1682XXX450",1
+"28/06/2025 03:12:45","28/06/2025","BBL.CARD","",0.00,"32,385.61 THB","5,537,625.90 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T8","","","",1
+"27/06/2025 16:54:06","27/06/2025","RECEIVED ON GOODS","",0.00,"588,572.00 THB","5,505,240.29 THB","Cash Management","","","0098A3","","","",1
+"26/06/2025 16:20:06","26/06/2025","RECEIVED ON GOODS","",0.00,"554,487.00 THB","4,916,668.29 THB","Cash Management","","","0098A3","","","",1
+"25/06/2025 23:00:00","25/06/2025","TAXES","","-88.42 THB",0.00,"4,362,181.29 THB","Automatic","NAKHON NAYOK","Mueang Nakhon Nayok ","000000","","","",1
+"25/06/2025 23:00:00","25/06/2025","Interest Credit","",0.00,"8,841.99 THB","4,362,269.71 THB","Automatic","NAKHON NAYOK","Mueang Nakhon Nayok ","000000","","","",1
+"25/06/2025 16:14:05","25/06/2025","RECEIVED ON GOODS","",0.00,"791,603.00 THB","4,353,427.72 THB","Cash Management","","","0098A3","","","",1
+"24/06/2025 17:55:04","24/06/2025","RECEIVED ON GOODS","",0.00,"595,034.00 THB","3,561,824.72 THB","Cash Management","","","0098A3","","","",1
+"24/06/2025 04:01:31","24/06/2025","Fees 25062323002152894754","","-24.00 THB",0.00,"2,966,790.72 THB","Automatic","eSaving Metro Branch","Khet Bang Rak ","0098T8","FEES Charge- 25062323002152894754, as of Date - 23-06-2025","","",1
+"23/06/2025 16:37:04","23/06/2025","RECEIVED ON GOODS","",0.00,"731,638.00 THB","2,966,814.72 THB","Cash Management","","","0098A3","","","",1
+"23/06/2025 16:37:04","23/06/2025","RECEIVED ON GOODS","",0.00,"914,839.00 THB","2,235,176.72 THB","Cash Management","","","0098A3","","","",1
+"23/06/2025 03:53:03","23/06/2025","Vendor Payment","","-4,000,000.00 THB",0.00,"1,320,337.72 THB","Cash Management","","","0098PP","Ref:  โอนกระแสรายวัน ; Purpose: GOODS AND SERVICES; Payment Amount: 4,000,000.00 THB","Ihavecpu","1682XXX450",1
+"22/06/2025 03:00:21","22/06/2025","BBL.CARD","",0.00,"1,609.67 THB","5,320,337.72 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T8","","","",1
+"21/06/2025 03:10:17","21/06/2025","BBL.CARD","",0.00,"15,185.50 THB","5,318,728.05 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T8","","","",1
+"20/06/2025 16:07:04","20/06/2025","RECEIVED ON GOODS","",0.00,"662,857.00 THB","5,303,542.55 THB","Cash Management","","","0098A3","","","",1
+"19/06/2025 16:30:05","19/06/2025","RECEIVED ON GOODS","",0.00,"414,690.00 THB","4,640,685.55 THB","Cash Management","","","0098A3","","","",1
+"18/06/2025 15:57:05","18/06/2025","RECEIVED ON GOODS","",0.00,"1,078,582.00 THB","4,225,995.55 THB","Cash Management","","","0098A3","","","",1
+"17/06/2025 16:27:05","17/06/2025","RECEIVED ON GOODS","",0.00,"1,090,950.00 THB","3,147,413.55 THB","Cash Management","","","0098A3","","","",1
+"17/06/2025 04:01:31","17/06/2025","Fees 25061623041895198206","","-36.00 THB",0.00,"2,056,463.55 THB","Automatic","eSaving Metro Branch","Khet Bang Rak ","0098T8","FEES Charge- 25061623041895198206, as of Date - 16-06-2025","","",1
+"16/06/2025 16:38:18","16/06/2025","RECEIVED ON GOODS","",0.00,"681,118.00 THB","2,056,499.55 THB","Cash Management","","","0098A3","","","",1
+"16/06/2025 16:38:15","16/06/2025","RECEIVED ON GOODS","",0.00,"915,460.00 THB","1,375,381.55 THB","Cash Management","","","0098A3","","","",1
+"16/06/2025 03:54:59","16/06/2025","Vendor Payment","","-6,000,000.00 THB",0.00,"459,921.55 THB","Cash Management","","","0098PP","Ref:  โอนกระแสรายวัน ; Purpose: GOODS AND SERVICES; Payment Amount: 6,000,000.00 THB","Ihavecpu","1682XXX450",1
+"13/06/2025 16:09:04","13/06/2025","RECEIVED ON GOODS","",0.00,"864,260.00 THB","6,459,921.55 THB","Cash Management","","","0098A3","","","",1
+"12/06/2025 16:14:04","12/06/2025","RECEIVED ON GOODS","",0.00,"945,339.00 THB","5,595,661.55 THB","Cash Management","","","0098A3","","","",1
+"12/06/2025 03:00:32","12/06/2025","BBL.CARD","",0.00,"36,138.78 THB","4,650,322.55 THB","Automatic","HEAD OFFICE","Khet Bang Rak ","0101T8","","","",1
+"11/06/2025 17:42:04","11/06/2025","RECEIVED ON GOODS","",0.00,"806,693.00 THB","4,614,183.77 THB","Cash Management","","","0098A3","","","",1
+"10/06/2025 15:54:05","10/06/2025","RECEIVED ON GOODS","",0.00,"651,528.00 THB","3,807,490.77 THB","Cash Management","","","0098A3","","","",1
+"10/06/2025 04:01:35","10/06/2025","Fees 25060923005396585543","","-24.00 THB",0.00,"3,155,962.77 THB","Automatic","eSaving Metro Branch","Khet Bang Rak ","0098T8","FEES Charge- 25060923005396585543, as of Date - 09-06-2025","","",1
+"09/06/2025 16:31:05","09/06/2025","RECEIVED ON GOODS","",0.00,"1,204,281.00 THB","3,155,986.77 THB","Cash Management","","","0098A3","","","",1
+"09/06/2025 03:53:25","09/06/2025","Vendor Payment","","-4,000,000.00 THB",0.00,"1,951,705.77 THB","Cash Management","","","0098PP","Ref:  กระแสรายวัน0450 ; Purpose: GOODS AND SERVICES; Payment Amount: 4,000,000.00 THB","Ihavecpu","1682XXX450",1
+"06/06/2025 16:21:04","06/06/2025","RECEIVED ON GOODS","",0.00,"866,504.00 THB","5,951,705.77 THB","Cash Management","","","0098A3","","","",1
+"05/06/2025 16:13:04","05/06/2025","RECEIVED ON GOODS","",0.00,"799,815.00 THB","5,085,201.77 THB","Cash Management","","","0098A3","","","",1
+"05/06/2025 04:01:23","05/06/2025","Fees 25060423015164325812","","-24.00 THB",0.00,"4,285,386.77 THB","Automatic","eSaving Metro Branch","Khet Bang Rak ","0098T8","FEES Charge- 25060423015164325812, as of Date - 04-06-2025","","",1
+"04/06/2025 17:10:07","04/06/2025","RECEIVED ON GOODS","",0.00,"1,084,964.00 THB","4,285,410.77 THB","Cash Management","","","0098A3","","","",1
+"04/06/2025 17:10:05","04/06/2025","RECEIVED ON GOODS","",0.00,"436,759.00 THB","3,200,446.77 THB","Cash Management","","","0098A3","","","",1
+"04/06/2025 17:10:05","04/06/2025","RECEIVED ON GOODS","",0.00,"863,944.00 THB","2,763,687.77 THB","Cash Management","","","0098A3","","","",1
+"04/06/2025 17:10:05","04/06/2025","RECEIVED ON GOODS","",0.00,"755,876.00 THB","1,899,743.77 THB","Cash Management","","","0098A3","","","",1
+"04/06/2025 03:54:53","04/06/2025","Vendor Payment","","-4,000,000.00 THB",0.00,"1,143,867.77 THB","Cash Management","","","0098PP","Ref:  บัญชีกระแสรายวัน ; Purpose: GOODS AND SERVICES; Payment Amount: 4,000,000.00 THB","Ihavecpu","1682XXX450",1
+  
