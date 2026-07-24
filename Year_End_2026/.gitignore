@@ -36,6 +36,23 @@ venv/
 *.sqlite
 *.sqlite3
 
+# PDF files
+*.pdf
+
+# Excel files
+*.xlsx
+*.xls
+*.xlsb
+*.xlsm
+
+# CSV files
+*.csv
+
+# ZIP / compressed files
+*.zip
+*.rar
+*.7z
+
 # Environment files
 .env
 .venv/
